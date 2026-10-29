@@ -1,0 +1,11 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-sqlalchemy==3.1.1
+pymysql==1.1.1
+python-dotenv==1.0.1
+marshmallow==3.21.3
+boto3==1.35.36
+cryptography==43.0.3
+uvicorn==0.30.6
+asgiref==3.8.1
+waitress==3.0.1
